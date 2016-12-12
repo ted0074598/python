@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+www.hyey.cn	FALSE	/	FALSE		ASP.NET_SessionId	ofmqspjmbdliu0nvrt0v5jll
+www.hyey.cn	FALSE	/	FALSE	1482112307	loginCookie	loginKey=P66OIomEvzg=&loginKeyMi=9w/zHZeuIPvCr45MVqfshIn12c0UCZ0K
